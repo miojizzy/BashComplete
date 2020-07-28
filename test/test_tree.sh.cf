@@ -1,0 +1,5 @@
+1:.*: help aaa_123 aaa_124 bbb_123 bbb_456
+2:bbb_*: ddd
+2:aaa_12*: ccc_1 ccc_2 bbb_123 bbb_456
+3:bbb_*: ddd
+
